@@ -1,0 +1,159 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+ background: linear-gradient(to right, #FCA5F1, #B5FFFF);
+}
+
+body, html {
+	color: #FFF;
+	height: 100%;
+	font-family: 'Mountains of Christmas', cursive;
+}
+
+.color{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+h1{
+	font-weight: 700;
+	font-size: 4vw;
+	text-transform: uppercase;
+}
+
+h2{
+	font-weight: 700;
+	font-size: 3vw;
+	text-transform: uppercase;
+}
+
+.sky {
+	height: 100%;
+	color: #FFF;
+	display: block;
+}
+
+content{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+
+.bgImg{
+	position: fixed;
+	top: 4%;
+	width: 200px;
+}
+
+.left{
+	font-size: 100px;
+	left: 1%;
+	color: white;
+}
+
+.right{
+	right: 1%;
+}
+
+.textLove{
+	font-size: 18px;
+	font-family: 'Architects Daughter', cursive;
+	letter-spacing: 1px;
+}
+
+.header{
+	position: absolute;
+	top: 30px;
+	left: 30%;
+}
+
+.imgCus{
+	width: 50%;
+	height: 340px;
+}
+
+.imgCus2{
+	height: 280px;
+	width: 100%;
+}
+
+.imgCus3{
+	width: 100%;
+}
+
+.ctTop{
+	margin-top: 200px;
+}
+
+.zIndex{
+	z-index: 100;
+}
+
+.wHalf{
+	width: 50%;
+}
+
+.footer{
+	background: linear-gradient(to right, #D585FF, #00FFEE);
+	padding: 50px;
+	margin-top: 200px;
+}
+
+.fText{
+	padding-top: 8%;
+}
+
+.designText{
+	font-size: 22px;
+	font-style: italic;
+}
+
+.title{
+	font-family: 'Mountains of Christmas', cursive;
+	font-size: 50px;
+	padding-top: 100px;
+}
+
+.seemore a{
+	font-size: 24px;
+	color: black;
+	padding: 10px 40px;
+	border-radius: 30px;
+	background-color: white;
+}
+
+.seemore p {
+	font-size: 20px;
+}
+
+.fadeInText{
+	font-size: 60px;
+	color: #FF5454;
+  cursor: pointer;
+}
+
+.gifImg{
+  transform: translateY(150px);
+  transition: 1s;
+}
+
+audio{
+  z-index: 1000;
+}
+
+
+
+
+
+
+
+
+
+
+
